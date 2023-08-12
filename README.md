@@ -7,8 +7,8 @@
   <img height="160em" src="https://lanyard.cnrad.dev/api/344158870740008960?borderRadius=5px&hideTimestamp=true&hideUser=true">
 </div>
 
- <div align="center">
+# <div align="center">
 
-  ![Snake animation](https://github.com/Gryzs/Gryzs/blob/output/github-user-contribution.svg)
+ # ![Snake animation](https://github.com/Gryzs/Gryzs/blob/output/github-user-contribution.svg)
   
-</div>
+#</div>
