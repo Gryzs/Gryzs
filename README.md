@@ -16,6 +16,6 @@
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" height="30" width="40" alt="python.icon" src="https://github.com/walkxcode/dashboard-icons/blob/main/svg/python.svg">
+    <img align="center" height="30" width="40" alt="python.icon" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
    </div>
 </div>
