@@ -1,6 +1,6 @@
 <!-- Presentation -->
 
-<h1 align="center">👋  Hi everyone,</h1>
+<h1 align="left">👋  Hi everyone,</h1>
 
 - <p align="left">🚀 Eu sou Breno, estudante de Engenharia da Computação no 9º semestre. Este é o meu espaço no GitHub, onde compartilho projetos e aprendizados.</p>
 
