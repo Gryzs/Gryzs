@@ -1,9 +1,3 @@
-<!--título-->
-
-<div align="center">
-  <img height="180" src="https://cdn.discordapp.com/attachments/1083113986146455624/1215372568299569152/Cyberpunk02_1.gif?ex=65fc82e8&is=65ea0de8&hm=0865419ac915cadc67b3c0d1e7e42f2a33d325502743e3189bbdf41412cb66f1&"  />
-</div>
-
 <!-- Presentation -->
 
 <h1 align="center">👋  Hi everyone,</h1>
@@ -39,7 +33,7 @@
 
 <h2 align="left">💻 Technical Experience:</h2>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
