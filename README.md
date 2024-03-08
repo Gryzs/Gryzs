@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="180" src="https://cdn.discordapp.com/attachments/1009910496486498425/1215463639616856175/05f17d6e87ad18f65940f896f4cf11a4.gif?ex=65fcd7b9&is=65ea62b9&hm=e60ceb9a33860055fe269991c40842537f4e111a4ec553610745e12da18c32b8&"  />
+</div>
+
 <!-- Presentation -->
 
 <h1 align="left">👋  Hi everyone,</h1>
