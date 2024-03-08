@@ -6,7 +6,7 @@
 
 <!-- Dropdown -->
 
-<h1 align="left">🔎 Mais sobre mim</h2>
+<h2 align="left">🔎 Mais sobre mim</h2>
 
 <p align="left">⚡ Atualmente estou cursando o 9º/10º semestre de Engenharia da Computação, onde tenho a oportunidade de aprofundar meus conhecimentos em diversas áreas relacionadas à computação, como programação. Além disso, estou aprimorando minhas habilidades em Python como parte do meu aprimoramento pessoal e profissional, visando ampliar minhas habilidades na área da tecnologia.</p>
 
