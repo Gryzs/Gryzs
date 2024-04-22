@@ -24,7 +24,7 @@
 <!-- GithubStats -->
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Gryzs&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <!-- <img src="https://streak-stats.demolab.com?user=Gryzs&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  /> -->
   ![snake gif](https://github.com/Gryzs/Gryzs/blob/output/github-contribution-grid-snake.gif)
 </div>
 
