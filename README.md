@@ -2,7 +2,7 @@
 
 <h1 align="left">👋  Hi everyone,</h1>
 
-<p align="left">Olá! Sou o Breno, estudante de Engenharia da Computação no 9º semestre. Aqui no GitHub, compartilho meus projetos e aprendizados.</p>
+<p align="left">Olá! Sou o Breno, estudante de Engenharia da Computação no 10º semestre. Aqui no GitHub, compartilho meus projetos e aprendizados.</p>
 
 <!-- Dropdown -->
 
