@@ -1,6 +1,10 @@
 <!-- Presentation -->
 
-<h1 align="left">👋  Hi everyone,</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=524&lines=Ol%C3%A1+a+todos!+" alt="Typing SVG">
+  </a>
+</div>
 
 <p align="left">Olá! Sou o Breno, estudante de Engenharia da Computação no 10º semestre. Aqui no GitHub, compartilho meus projetos e aprendizados.</p>
 
