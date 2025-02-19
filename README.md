@@ -8,7 +8,7 @@
 
 <!-- Technical Experience -->
 
-<h2 align="left">🟣 Technical Experience:</h2>
+<h2 align="left">💻 Technical Experience:</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -32,7 +32,7 @@
 
 <!-- GithubStats -->
 
-<h2>🟣 Stats</h2>
+<h2>📊 Stats</h2>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Gryzs&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gryzs&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true" height="150" alt="languages graph"  />
@@ -40,7 +40,7 @@
 
 </div>
 
-<h2>🟣 Commits</h2>
+<h2>📍 Commits</h2>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gryzs/Gryzs/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gryzs/Gryzs/output/github-contribution-grid-snake-dark.svg">
