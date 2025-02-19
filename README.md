@@ -34,6 +34,7 @@
 
 <!-- GithubStats -->
 
+<h2></h2>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Gryzs&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gryzs&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true" height="150" alt="languages graph"  />
@@ -41,7 +42,7 @@
 
 </div>
 
-<hr>
+<h2></h2>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gryzs/Gryzs/output/github-contribution-grid-snake-dark.svg">
