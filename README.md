@@ -4,7 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&duration=2000&pause=1000&color=F7F7F7&width=435&lines=Ol%C3%A1+a+todos!" alt="Typing SVG" /></a>
 </div>
 
-<p align="left">Sou estudante de Engenharia da Computação e estagiário de Help Desk em uma empresa de automação comercial. Tenho grande interesse na área de tecnologia e estou sempre buscando aprender coisas novas. Atualmente, estou me aprofundando em back-end, explorando <strong>JavaScript</strong>, <strong>Java</strong>, <strong>C</strong> e <strong>Python</strong>. Gosto de desafios e de encontrar soluções eficientes para problemas do dia a dia, sempre com a intenção de evoluir e inovar.</p>
+<p align="left">Sou formado em Engenharia da Computação. Tenho grande interesse na área de tecnologia e estou sempre buscando aprender coisas novas. Atualmente, estou me aprofundando em back-end, explorando <strong>JavaScript</strong>, <strong>Java</strong>, <strong>C</strong> e <strong>Python</strong>. Gosto de desafios e de encontrar soluções eficientes para problemas do dia a dia, sempre com a intenção de evoluir e inovar.</p>
 
 <!-- Technical Experience -->
 
